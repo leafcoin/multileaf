@@ -41,7 +41,7 @@ public class HelpContentsPanel extends JPanel implements Viewable {
     //public static final String HELP_BASE_URL = "http://www.multibit.org/";
     
     // Version 0.5.x - live
-    public static final String HELP_BASE_URL = "http://multileaf.org/help/v0.1/";
+    public static final String HELP_BASE_URL = "http://multileaf.leafco.in/help/v0.1/";
     
     
     // Version 0.4.x - test

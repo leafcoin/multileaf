@@ -1,5 +1,3 @@
--- PROJECT IS NOT YET COMPLETED -- FUNCTIONAL BUT NOT COMPLETED --
-
 ### Introduction
 
 MultiLeaf is a Simplified Payment Verification (SPV) Leafcoin desktop client.

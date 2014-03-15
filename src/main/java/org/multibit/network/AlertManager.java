@@ -66,9 +66,9 @@ public enum AlertManager {
 
     private Logger log = LoggerFactory.getLogger(AlertManager.class);
 
-    public static final String DEFAULT_VERSION_URL = "http://multileaf.org/version.txt";
+    public static final String DEFAULT_VERSION_URL = "http://multileaf.leafco.in/version.txt";
 
-    public static final String RELEASES_URL = "http://multileaf.org/";
+    public static final String RELEASES_URL = "http://multileaf.leafco.in/";
 
     public static final int NUMBER_OF_TIMES_TO_REPEAT_ALERT = 3;
     

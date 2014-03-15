@@ -28,9 +28,9 @@ import java.net.URL;
 
 public class ActivatedHyperlinkListener implements HyperlinkListener {
 
-    private static final String MULTIBIT_HOST_NAME = "www.multileaf.org";
-    private static final String MULTIBIT_HOST_NAME2 = "multileaf.org";
-    private static final String MULTIBIT_HOST_NAME3 = "185.31.17.133";
+    private static final String MULTIBIT_HOST_NAME = "multileaf.leafco.in";
+    private static final String MULTIBIT_HOST_NAME2 = "multileaf.com";
+    private static final String MULTIBIT_HOST_NAME3 = "localhost";
     private static final String MULTIBIT_HOST_NAME4 = "localhost";
     
     private static final String HTTP_PROTOCOL = "http";

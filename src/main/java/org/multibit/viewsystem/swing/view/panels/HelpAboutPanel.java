@@ -39,7 +39,7 @@ import org.multibit.viewsystem.swing.view.components.MultiBitLabel;
 public class HelpAboutPanel extends JPanel implements Viewable {
     private static final long serialVersionUID = 191352212345057705L;
 
-    private static final String MULTIBIT_URL = "https://multileaf.org";
+    private static final String MULTIBIT_URL = "https://multileaf.leafco.in";
     
     private Controller controller;
 

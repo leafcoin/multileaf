@@ -1,0 +1,11 @@
+/.settings
+/docs
+/log
+/out
+/target
+/.classpath
+/bin
+.project
+.idea
+multibit.iml
+multileaf.iml

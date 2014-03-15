@@ -1,0 +1,42 @@
+<!--
+Require the following structure on Windows
+see http://msdn.microsoft.com/en-us/library/aa767914(v=vs.85).aspx
+
+leafcoin.reg:
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\leafcoin]
+@="URL:Leafcoin Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\leafcoin\DefaultIcon]
+@="multileaf.exe,1"
+
+[HKEY_CLASSES_ROOT\leafcoin\shell]
+
+[HKEY_CLASSES_ROOT\leafcoin\shell\open]
+
+[HKEY_CLASSES_ROOT\leafcoin\shell\open\command]
+@="\"C:\\Program Files\\MultiLeaf-0.2.0beta4\\multileaf.exe\" \"%1\""
+
+
+-->
+<registry>
+  <pack name="MultiLeaf">
+    <key root="HKCR" keypath="leafcoin" />
+    <value root="HKCR" name="" keypath="leafcoin" string="URL:Leafcoin Protocol"/>
+    <value root="HKCR" name="URL Protocol" keypath="leafcoin" string=""/>
+    <value root="HKCR" name="UseOriginalUrlEncoding" keypath="leafcoin" dword="1"/>
+
+    <key root="HKCR" keypath="leafcoin\DefaultIcon" />
+    <value root="HKCR" name="" keypath="leafcoin\DefaultIcon" string="multileaf.exe,1"/>
+
+    <key root="HKCR" keypath="leafcoin\shell" />
+
+    <key root="HKCR" keypath="leafcoin\shell\open" />
+
+    <key root="HKCR" keypath="leafcoin\shell\open\command" />
+    <value root="HKCR" keypath="leafcoin\shell\open\command" name="" string="&quot;$INSTALL_PATH\multileaf.exe&quot; &quot;%1&quot;" />
+
+  </pack>
+</registry>

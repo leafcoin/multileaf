@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<shortcuts>
+
+  <programGroup defaultName="MultiLeaf"
+  location="applications"/>
+
+   <shortcut
+     name="MultiLeaf ${project.version}"
+     programGroup="yes"
+     desktop="yes"
+     applications="no"
+     startMenu="no"
+     startup="no"
+     target="/usr/bin/java"
+     commandLine="-jar $INSTALL_PATH/multileaf-exe.jar"
+     initialState="normal"
+     iconFile="$INSTALL_PATH/multileaf48.png"
+     workingDirectory="$INSTALL_PATH"
+     type="Application"
+     encoding="UTF-8"
+     description="MultiLeaf ${project.version}">
+   </shortcut>
+   <shortcut
+     name="Uninstall MultiLeaf ${project.version}"
+     programGroup="yes"
+     desktop="yes"
+     applications="no"
+     startMenu="no"
+     startup="no"
+     target="/usr/bin/java"
+     commandLine="-jar $INSTALL_PATH/Uninstaller/uninstaller.jar"
+     initialState="normal"
+     workingDirectory="$INSTALL_PATH"
+     type="Application"
+     encoding="UTF-8"
+     description="Uninstall MultiLeaf ${project.version}">
+   </shortcut>
+</shortcuts>
+

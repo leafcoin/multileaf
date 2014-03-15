@@ -1,0 +1,7 @@
+MultiLeaf release notes:
+
+15 Mar 2014: 0.1.2
++ Prepare for March 17th fork
++ Update XChange component
++ Internal fixes
++ Translation fixes

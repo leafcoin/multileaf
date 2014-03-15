@@ -1,0 +1,129 @@
+ De volumenaam van station C is SYSTEEM
+ Het volumenummer is 4C7E-A5E0
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop
+
+15-03-2014  21:06             5.484 multileaf.iml
+               1 bestand(en)            5.484 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\app-resources
+
+15-03-2014  21:02    <DIR>          MultiLeaf.app
+15-03-2014  10:55               242 MultiLeafApp_Readme.txt
+               1 bestand(en)              242 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\app-resources\MultiLeaf.app\Contents\Resources
+
+15-03-2014  10:55           336.318 multileaf.icns
+               1 bestand(en)          336.318 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\main\izpack\linux
+
+15-03-2014  10:55               295 multileaf-protocol-handler.sh
+               1 bestand(en)              295 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\main\java\org\multibit\utils
+
+15-03-2014  21:08             2.780 LeafUtils.java
+               1 bestand(en)            2.780 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\main\proguard
+
+15-03-2014  10:55             6.002 multileaf-exe.pro
+               1 bestand(en)            6.002 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\main\resources
+
+15-03-2014  17:40            18.069 multileaf.checkpoints
+15-03-2014  10:55                30 multileaf.properties
+               2 bestand(en)           18.099 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\main\resources\images
+
+15-03-2014  10:55             1.020 multileaf-small.png
+15-03-2014  10:55           336.318 multileaf.icns
+15-03-2014  10:55           370.070 multileaf.ico
+15-03-2014  10:55             5.795 multileaf.png
+15-03-2014  10:55            24.793 multileaf128.png
+15-03-2014  10:55             1.960 multileaf24.png
+15-03-2014  10:55            66.196 multileaf256.png
+15-03-2014  10:55             3.054 multileaf32.png
+15-03-2014  10:55             5.795 multileaf48.png
+15-03-2014  10:55           170.017 multileaf512.png
+15-03-2014  10:55             8.900 multileaf64.png
+15-03-2014  10:55            16.409 multileaf96.png
+              12 bestand(en)        1.010.327 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\src\main\skeleton\mac
+
+15-03-2014  21:02    <DIR>          MultiLeaf.app
+               0 bestand(en)                0 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target
+
+15-03-2014  21:11         8.553.503 multileaf-0.1.2-linux.jar
+15-03-2014  21:11         9.522.688 multileaf-0.1.2-windows-setup.exe
+15-03-2014  21:08        12.678.043 multileaf-exe-full.jar
+15-03-2014  21:09         8.841.116 multileaf-exe.jar
+15-03-2014  21:11         9.080.974 multileaf-windows.jar
+15-03-2014  21:11    <DIR>          MultiLeaf.app
+15-03-2014  21:09         9.282.560 multileaf.exe
+15-03-2014  21:09         2.052.992 multileaf.jar
+15-03-2014  21:08         2.065.116 multileaf_proguard_base.jar
+               8 bestand(en)       62.076.992 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target\classes
+
+15-03-2014  21:08                30 multileaf.properties
+               1 bestand(en)               30 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target\classes\images
+
+15-03-2014  21:08             1.020 multileaf-small.png
+15-03-2014  21:08           336.318 multileaf.icns
+15-03-2014  21:08           370.070 multileaf.ico
+15-03-2014  21:08             5.795 multileaf.png
+15-03-2014  21:08            24.793 multileaf128.png
+15-03-2014  21:08             1.960 multileaf24.png
+15-03-2014  21:08            66.196 multileaf256.png
+15-03-2014  21:08             3.054 multileaf32.png
+15-03-2014  21:08             5.795 multileaf48.png
+15-03-2014  21:08           170.017 multileaf512.png
+15-03-2014  21:08             8.900 multileaf64.png
+15-03-2014  21:08            16.409 multileaf96.png
+              12 bestand(en)        1.010.327 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target\classes\org\multibit\utils
+
+15-03-2014  21:08             3.566 LeafUtils.class
+               1 bestand(en)            3.566 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target\MultiLeaf.app\Contents\Resources
+
+15-03-2014  21:11           336.318 multileaf.icns
+               1 bestand(en)          336.318 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target\MultiLeaf.app\Contents\Resources\Java
+
+15-03-2014  21:11         8.841.116 multileaf-exe.jar
+15-03-2014  21:11            52.725 multileaf.checkpoints
+               2 bestand(en)        8.893.841 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target\staging.linux
+
+15-03-2014  21:11         8.841.116 multileaf-exe.jar
+15-03-2014  21:11               295 multileaf-protocol-handler.sh
+15-03-2014  21:11            52.725 multileaf.checkpoints
+15-03-2014  21:11             5.795 multileaf48.png
+               4 bestand(en)        8.899.931 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\MULTILEAF\multileaf-develop\target\staging.windows
+
+15-03-2014  21:11            52.725 multileaf.checkpoints
+15-03-2014  21:11         9.282.560 multileaf.exe
+15-03-2014  21:11           370.070 multileaf.ico
+               3 bestand(en)        9.705.355 bytes
+
+     Totaal aantal weergegeven bestanden:
+              52 bestand(en)       92.305.907 bytes
+               3 map(pen)   4.681.596.928 bytes beschikbaar

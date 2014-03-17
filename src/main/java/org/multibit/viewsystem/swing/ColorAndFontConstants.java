@@ -66,7 +66,7 @@ public final class ColorAndFontConstants {
     String[] availFonts = GraphicsEnvironment.getLocalGraphicsEnvironment().getAvailableFontFamilyNames();
     for (String fontName: availFonts)
     {
-        if (fontName.equals("Arial"))
+        if (fontName.equals("Arial Unicode MS"))
         {
             MULTIBIT_DEFAULT_FONT_NAME = fontName;
             break;

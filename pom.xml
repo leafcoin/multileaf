@@ -22,7 +22,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.multibit</groupId>
     <artifactId>multileaf</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3</version>
     <name>MultiLeaf</name>
     <description>A Java Swing client for Leafcoin</description>
     <url>https://multileaf.org</url>
